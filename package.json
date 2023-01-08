@@ -1,0 +1,7 @@
+{
+	"type": "module",
+	"dependencies": {
+		"@consumet/extensions": "^1.3.0",
+		"chalk": "^5.2.0"
+	}
+}
